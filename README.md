@@ -7,7 +7,9 @@ Este trabalho é uma produção dos acadêmicos de Engenharia de Software da Uni
 #### Execução
 
 Para executar este código é necessário:
-> O ambiente Jupyter Notebook;
+
+> O ambiente Jupyter Notebook
+
 > A linguagem de programação Python 3
 
 
